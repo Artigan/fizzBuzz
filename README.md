@@ -1,4 +1,4 @@
-# Cloner le Repo :
+# Cloner le Repo puis suivre les instructions suivantes :
 
     1 - L'énoncé se trouve dans le fichier fizzBuzz.js, c'est également dans ce fichier que vous devrez coder 
     votre proposition : 
