@@ -1,6 +1,6 @@
 **Télécharger le Repo :
 
-    1 - L'énoncé se trouve dans le fichier fizzBuzz.js, c'est également dans ce fichier que vous devrez  : 
+    1 - L'énoncé se trouve dans le fichier fizzBuzz.js, c'est également dans ce fichier que vous devrez coder votre proposition : 
         Pour tester votre code :
             - Dans votre terminal à la racine du projet lancer la commande : ```node fizzBuzz.js```
 
