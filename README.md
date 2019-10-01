@@ -13,7 +13,8 @@
         1 - Dans votre terminal à la racine du dossier fizzBuzz lancer la commande :
         ```npm install mocha -g```
 
-        2 - Dans le fichier fizzBuzz.js, ajouter ```module.exports = ``` devant la méthode fizzBuzz comme ceci: 
+        2 - Dans le fichier fizzBuzz.js, ajouter ```module.exports = ``` devant la méthode fizzBuzz comme 
+	ceci: 
             ```module.exports = function fizzBuzz(val) {
 	            console.log('YOUR CODE HERE');
             }```
